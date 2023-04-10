@@ -1,0 +1,21 @@
+{
+  "name": "bdo-api",
+  "version": "0.1.0",
+  "description": "A simple api to find profiles and family names.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^11.8.2",
+    "jsdom": "^16.6.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT"
+}
